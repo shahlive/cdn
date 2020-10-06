@@ -1,0 +1,2 @@
+wget https://raw.githubusercontent.com/rsp/ajax-cdn-speed-test/master/ajax-cdn-speed-test
+chmod a+x ajax-cdn-speed-test
